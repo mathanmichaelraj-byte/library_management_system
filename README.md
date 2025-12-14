@@ -1,2 +1,2 @@
-# java_proj
-Java Projects I work on
+# JAVA PROJECTS
+In this repository I will upload the jav projects I work on...
