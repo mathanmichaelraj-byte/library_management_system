@@ -31,7 +31,6 @@ This approach keeps the project simple and focused on MVC architecture and Swing
 
 ## 🧩 Project Architecture (MVC)
 
-```text
 src/
 ├── model/
 │   ├── Book.java
