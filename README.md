@@ -1,13 +1,13 @@
 # 📚 Library Management System
 
 A desktop-based **Library Management System** developed using **Java Swing** following the **MVC (Model–View–Controller)** architectural pattern.  
-This application helps manage books, users, and book issue/return operations efficiently.
+This application helps manage books and book issue/return operations efficiently.
 
 ---
 
 ## 🚀 Features
 
-- Add, update, delete, and view books
+- Add, delete, and view books
 - Issue and return books
 - Track issued books and availability status
 - User-friendly GUI using Java Swing
